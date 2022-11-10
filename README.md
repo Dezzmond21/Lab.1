@@ -8,19 +8,33 @@
 Порядок виконання лабораторної роботи
 
 1. Створити локальний репозиторій.
+
 ![image](https://user-images.githubusercontent.com/46502035/201206998-24825305-9f21-4cc8-b237-54aa1aef716a.png)
+
 2. Додати файл у репозиторій
+
 ![image](https://user-images.githubusercontent.com/46502035/201212877-5f5d17ee-efd0-42bf-a109-6ae191a81762.png)
+
 3. Змінити файл у репозиторії (commit)
+
 ![image](https://user-images.githubusercontent.com/46502035/201215434-2bfa21b6-470b-485d-a4e0-fc42e7daf178.png)
+
 4. Видалити файл з репозиторію (commit)
+
 ![image](https://user-images.githubusercontent.com/46502035/201216986-db5f1a51-7ec1-42d4-9844-48f6c40a1472.png)
+
 5. Виконати checkout та створити гілку у репозиторії
+
 ![image](https://user-images.githubusercontent.com/46502035/201218154-b11f98f8-92a2-4ef2-906f-90cf9257ae66.png)
+
 6. З’єднати гілки (merge)
+
 ![image](https://user-images.githubusercontent.com/46502035/201218285-5b83c14f-dc9f-4657-aec7-02df0e4f42c6.png)
+
 7. Отримати історію ревізій (change log) за будь-яким файлом
+
 ![image](https://user-images.githubusercontent.com/46502035/201218414-674c4dcb-30b0-4dae-8ae9-67cab95351f3.png)
+
 
 Висновок
 
